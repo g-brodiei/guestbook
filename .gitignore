@@ -1,5 +1,6 @@
 *.sql
-.vscode
+.vscode/
+/.user.ini
 ###> symfony/framework-bundle ###
 /.env.local
 /.env.local.php
